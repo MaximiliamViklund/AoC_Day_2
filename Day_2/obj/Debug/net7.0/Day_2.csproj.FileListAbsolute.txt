@@ -1,0 +1,14 @@
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\bin\Debug\net7.0\Day_2.exe
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\bin\Debug\net7.0\Day_2.deps.json
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\bin\Debug\net7.0\Day_2.runtimeconfig.json
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\bin\Debug\net7.0\Day_2.dll
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\bin\Debug\net7.0\Day_2.pdb
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfoInputs.cache
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfo.cs
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.csproj.CoreCompileInputs.cache
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.dll
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\refint\Day_2.dll
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.pdb
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\Day_2.genruntimeconfig.cache
+d:\Eget\AdventOfCode_2024\Day_2\Day_2\obj\Debug\net7.0\ref\Day_2.dll
